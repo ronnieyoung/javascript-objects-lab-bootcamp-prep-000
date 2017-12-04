@@ -1,1 +1,3 @@
-function objects
+function objects (recipe) {
+  return objects; 
+}
